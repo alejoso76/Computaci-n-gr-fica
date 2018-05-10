@@ -1,0 +1,26 @@
+[nivel]
+origen=terrenogen.png
+an=32
+al=12
+mapa=..........
+     ...#...%%.
+     ...#..%%%.
+     ..........
+
+[.]
+nom='Pasto'
+x=16
+y=0
+muro=0
+
+[#]
+nom='Bloque'
+x=8
+y=6
+muro=1
+
+[%]
+nom='Agua'
+x=13
+y=3
+muro=0
